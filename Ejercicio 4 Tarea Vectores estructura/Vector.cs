@@ -27,7 +27,7 @@ namespace Ejercicio_4_Tarea_Vectores_estructura
                 elemento[5] < elemento[6] &&
                 elemento[6] < elemento[7] &&
                 elemento[7] < elemento[8] &&
-                elemento[8] < elemento[9] )
+                elemento[8] < elemento[9])
             {
                 Console.WriteLine("Esta de menor a mayor");
                 Console.WriteLine("Listo"); Console.ReadKey();
@@ -37,6 +37,36 @@ namespace Ejercicio_4_Tarea_Vectores_estructura
                 Console.WriteLine("No esta de menor a mayor");
                 Console.WriteLine("Listo"); Console.ReadKey();
             }
+
+
+            //int proximo = elemento[0];
+            //bool creciente = true;
+            //bool decreciente = true;
+
+            //for (int i = 0; i < elemento.Length; i++)
+            //{
+            //    if (elemento[i] < proximo) creciente = false;
+            //    if (elemento[i] > proximo) decreciente = false;
+            //    proximo = elemento[i]; //Asignar el proximo elemento que verificara
+
+            //}
+
+            //if (creciente && decreciente)
+            //{
+            //    Console.WriteLine("El vector tiene todos los valores repetidos");
+            //}
+            //else if (creciente)
+            //{
+            //    Console.WriteLine("El vector esta ordenado de menor a mayor");
+            //}
+            //else if (decreciente)
+            //{
+            //    Console.WriteLine("El vector esta ordenado de mayor a menor");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("El vector esta desordenado");
+            //}
         }
     }
 }
