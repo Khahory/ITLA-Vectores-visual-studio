@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1 Tarea Vercores 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2 Tarea Vectores estructura", "Ejercicio 2 Tarea Vectores estructura\Ejercicio 2 Tarea Vectores estructura.csproj", "{030012E6-0B6D-4B63-AC4A-B5B880B4E0D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 3 Tarea Vectores estructura", "Ejercicio 3 Tarea Vectores estructura\Ejercicio 3 Tarea Vectores estructura.csproj", "{2527D84D-B508-4B2C-9C86-A36B8CA4A7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 4 Tarea Vectores estructura", "Ejercicio 4 Tarea Vectores estructura\Ejercicio 4 Tarea Vectores estructura.csproj", "{5C3F3F02-4B62-4FA2-81F8-AC066F2914F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{030012E6-0B6D-4B63-AC4A-B5B880B4E0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{030012E6-0B6D-4B63-AC4A-B5B880B4E0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{030012E6-0B6D-4B63-AC4A-B5B880B4E0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2527D84D-B508-4B2C-9C86-A36B8CA4A7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2527D84D-B508-4B2C-9C86-A36B8CA4A7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2527D84D-B508-4B2C-9C86-A36B8CA4A7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2527D84D-B508-4B2C-9C86-A36B8CA4A7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3F3F02-4B62-4FA2-81F8-AC066F2914F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3F3F02-4B62-4FA2-81F8-AC066F2914F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3F3F02-4B62-4FA2-81F8-AC066F2914F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3F3F02-4B62-4FA2-81F8-AC066F2914F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
