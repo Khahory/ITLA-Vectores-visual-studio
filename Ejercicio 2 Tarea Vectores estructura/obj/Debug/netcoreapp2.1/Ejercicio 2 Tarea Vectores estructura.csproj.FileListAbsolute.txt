@@ -1,0 +1,11 @@
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\bin\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.deps.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\bin\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.runtimeconfig.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\bin\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.runtimeconfig.dev.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\bin\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.dll
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\bin\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.pdb
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.AssemblyInfo.cs
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.dll
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.pdb
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Ejercicio 2 Tarea Vectores estructura\obj\Debug\netcoreapp2.1\Ejercicio 2 Tarea Vectores estructura.csprojAssemblyReference.cache
