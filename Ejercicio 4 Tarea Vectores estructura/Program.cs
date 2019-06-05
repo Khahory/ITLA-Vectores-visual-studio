@@ -8,6 +8,7 @@ namespace Ejercicio_4_Tarea_Vectores_estructura
         {
             Vector vector = new Vector();
             vector.ObtenerValor();
+            vector.Verificar();
         }
     }
 }
