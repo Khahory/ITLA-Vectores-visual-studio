@@ -1,0 +1,11 @@
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\bin\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.deps.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\bin\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.runtimeconfig.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\bin\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.runtimeconfig.dev.json
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\bin\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.dll
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\bin\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.pdb
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.csprojAssemblyReference.cache
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.AssemblyInfo.cs
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.dll
+C:\Users\Angel\Documents\Proyectos VS\Tarea Vercores estructura\Tarea Vercores estructura\obj\Debug\netcoreapp2.1\Ejercicio 1 Tarea Vercores estructura.pdb
